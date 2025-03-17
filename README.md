@@ -1,2 +1,2 @@
-# project-javascript
+# morpion
 first repo
